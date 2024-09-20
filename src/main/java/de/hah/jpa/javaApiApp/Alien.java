@@ -1,5 +1,7 @@
 package de.hah.jpa.javaApiApp;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
 public class Alien {
 
 
